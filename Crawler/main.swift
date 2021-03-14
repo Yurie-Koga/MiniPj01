@@ -9,5 +9,5 @@ import Foundation
 
 let dirPath = "/Users/ujisaori/Documents/12_CICCC/WMAD401_Algorithms/MiniProject/01_FileSystem/testDir"
 crawl(path: dirPath)
-print()
+
 
